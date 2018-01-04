@@ -1,4 +1,7 @@
 # Android-Socket.io
+```
+Socket.io merupakan library yang digunakan untuk membuat realtime data dengan menggunakan jalur socket yang dimana kita menggunakan port yang terbuka untuk mengirim suatau data.
+```
 
 ## Run Server
 ```
